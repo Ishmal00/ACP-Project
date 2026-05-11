@@ -55,4 +55,18 @@ A modern, automated management and billing solution for Cyber Cafes. Built with 
 
   <img width="1549" height="961" alt="image" src="https://github.com/user-attachments/assets/c78311ed-cf0d-4980-9e7c-75574abb5485" />
 
+ ---
+
+  <img width="1551" height="982" alt="image" src="https://github.com/user-attachments/assets/a0362f11-3715-4105-84c2-322d6df532f5" />
+
+---
+
+<img width="1540" height="1005" alt="image" src="https://github.com/user-attachments/assets/930daab5-1315-43be-a605-ee4673a063bc" />
+
+---
+
+<img width="1164" height="754" alt="image" src="https://github.com/user-attachments/assets/53862739-a1f6-4332-b054-538c7b02cda8" />
+
+
+
 
